@@ -1,0 +1,87 @@
+body{
+font-family:Arial;
+background:#cec1c1;
+margin:0;
+padding:0;
+}
+
+header{
+background:#ce715a;
+color:rgb(73, 31, 31);
+padding: 10px;
+text-align:center;
+}
+
+h2{
+    margin: 20px;
+}
+
+#texto{
+    margin: 20px;
+}
+
+.card{
+background:rgb(172, 166, 166);
+padding:20px;
+margin:20px;
+border-radius:10px;
+box-shadow:0 0 10px rgb(122, 103, 103);
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 12px;
+}
+
+.contraste{
+    background-color: black;
+    color: white;
+}
+
+
+.acessibilidade{
+    text-align: center;
+    padding: 15px;
+    background: #ddd;
+}
+
+
+.acessibilidade button{
+    padding: 10px;
+    margin: 5px;
+    cursor: pointer;
+}
+
+
+.contraste header{
+    background-color: black;
+    color: yellow;
+}
+
+
+.contraste .card{
+    background-color: #222;
+    color: white;
+}
+
+
+.contraste button{
+    background-color: yellow;
+    color: black;
+}
+
+.contraste footer{
+    background-color: #000000;
+    padding: 15px 25px;
+    color: #ffee00;
+    text-align: center;
+    }
+
+footer {
+    background-color: #a34841;
+    padding: 15px 25px;
+    color: #3f3737;
+    text-align: center;
+    }
+    
